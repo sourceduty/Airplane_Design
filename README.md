@@ -108,6 +108,10 @@ In conclusion, the Inflatable Airborne Deployment Bags offer a highly innovative
 </details>
 
 #
+
+![Aerodynamics](https://github.com/user-attachments/assets/6a83179a-3b6b-4a7c-ac0b-184e4d35bad1)
+
+#
 ### Related Links
 
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
