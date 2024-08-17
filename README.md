@@ -109,7 +109,7 @@ In conclusion, the Inflatable Airborne Deployment Bags offer a highly innovative
 
 #
 
-![Aerodynamics](https://github.com/user-attachments/assets/6a83179a-3b6b-4a7c-ac0b-184e4d35bad1)
+![Hughes](https://github.com/user-attachments/assets/74fd9d84-b218-4185-8272-999aa38e61fc)
 
 #
 ### Related Links
