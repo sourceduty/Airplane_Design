@@ -131,6 +131,12 @@ In conclusion, the Inflatable Airborne Deployment Bags offer a highly innovative
 [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 <br>
 [Airplane Programmer](https://github.com/sourceduty/Airplane_Progammer)
+<br>
+[Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
+<br>
+[Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
+<br>
+[Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
