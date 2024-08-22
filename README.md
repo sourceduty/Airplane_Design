@@ -121,6 +121,10 @@ In conclusion, the Inflatable Airborne Deployment Bags offer a highly innovative
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 <br>
 [Trains](https://github.com/sourceduty/Trains)
+<br>
+[Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
+<br>
+[Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
