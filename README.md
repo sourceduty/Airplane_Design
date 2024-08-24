@@ -1,4 +1,8 @@
-![Avro Arrow](https://github.com/sourceduty/Airplane_Design/assets/123030236/75d72b39-6e5e-4359-94fd-53372db43631)
+![Mile High Club](https://github.com/user-attachments/assets/ce58bf16-62e0-4607-b6df-2adb2e192dfb)
+
+> Airplane design concepts and notes.
+
+#
 
 Airplane design and innovation have been central to the advancement of aerospace engineering, pushing the boundaries of what's possible in aviation technology. The quest for more efficient, faster, and safer aircraft has led to significant breakthroughs in materials science, aerodynamics, and propulsion systems. Modern airplanes, for instance, often incorporate composite materials which are lighter yet stronger than traditional materials, enabling significant improvements in fuel efficiency and payload capacity. Innovations such as blended wing bodies and adaptive wing designs also demonstrate how aerodynamics are being optimized to reduce drag and enhance performance, illustrating the ongoing evolution in aircraft design.
 
@@ -114,6 +118,10 @@ In conclusion, the Inflatable Airborne Deployment Bags offer a highly innovative
 #
 
 ![Futuristic Flying Vehicle](https://github.com/user-attachments/assets/fa0a6514-0e70-47a6-801b-9be871f628eb)
+
+#
+
+![Avro Arrow](https://github.com/sourceduty/Airplane_Design/assets/123030236/75d72b39-6e5e-4359-94fd-53372db43631)
 
 #
 ### Related Links
