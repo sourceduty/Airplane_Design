@@ -158,6 +158,8 @@ This concept also hints at the broader possibilities of integrating technology i
 [Air Vortex Blower](https://github.com/sourceduty/Air_Vortex_Blower)
 <br>
 [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
+<br>
+[Military Automate](https://github.com/sourceduty/Military_Automation/tree/main)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
