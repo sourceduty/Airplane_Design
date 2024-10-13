@@ -1,4 +1,4 @@
-![Mile High Club](https://github.com/user-attachments/assets/ce58bf16-62e0-4607-b6df-2adb2e192dfb)
+![Hughes](https://github.com/user-attachments/assets/429f2669-7d7b-438f-a4ac-1273c96290c3)
 
 > Airplane and aircraft design concepts with notes.
 
@@ -138,7 +138,7 @@ This concept also hints at the broader possibilities of integrating technology i
 
 #
 
-![Avro Arrow](https://github.com/sourceduty/Airplane_Design/assets/123030236/75d72b39-6e5e-4359-94fd-53372db43631)
+![Mile High Club](https://github.com/user-attachments/assets/ce58bf16-62e0-4607-b6df-2adb2e192dfb)
 
 #
 
