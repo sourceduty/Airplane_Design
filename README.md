@@ -14,7 +14,7 @@ Moreover, the integration of advanced technologies like artificial intelligence 
 While [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) is developed for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
 
 #
-### Airplane & Airborne Design Concepts
+### Airplane & Other Airborne Design Concepts
 
 <details><summary>Soil Scraping Airplane Concept</summary>
 <br>
