@@ -1,6 +1,6 @@
 ![Mile High Club](https://github.com/user-attachments/assets/ce58bf16-62e0-4607-b6df-2adb2e192dfb)
 
-> Airplane design concepts and notes.
+> Airplane and aircraft design concepts with notes.
 
 #
 
