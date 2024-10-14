@@ -1,4 +1,4 @@
-![Hughes](https://github.com/user-attachments/assets/429f2669-7d7b-438f-a4ac-1273c96290c3)
+![Makeshift Pilot](https://github.com/user-attachments/assets/5ef83bcc-3d93-4849-bbf3-706ac208519f)
 
 > Airplane and aircraft design concepts with notes.
 
