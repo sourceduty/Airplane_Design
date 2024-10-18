@@ -186,7 +186,7 @@ Additionally, the aerodynamic forces and power systems in an aircraft are vastly
 <br>
 [Airplane Contrails](https://github.com/sourceduty/Airplane_Contrails)
 <br>
-[Military Automate](https://github.com/sourceduty/Military_Automation/tree/main)
+[Military Automate](https://github.com/sourceduty/Military_Automation)
 <br>
 [Airport System](https://github.com/sourceduty/Airport_System)
 <br>
@@ -196,7 +196,9 @@ Additionally, the aerodynamic forces and power systems in an aircraft are vastly
 <br>
 [Boats](https://github.com/sourceduty/Boats)
 <br>
-[Airborne Systems](https://github.com/sourceduty/Airborne_Systems/tree/main)
+[Airborne Systems](https://github.com/sourceduty/Airborne_Systems)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
