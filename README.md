@@ -1,4 +1,4 @@
-![Orange Beaver](https://github.com/user-attachments/assets/fb586220-3ab9-44f8-9371-f6a55c4d0fdf)
+![Orange Beaver](https://github.com/user-attachments/assets/b0320706-2fa0-495f-97a5-eccd3683b844)
 
 > Airplane and aircraft design concepts with notes.
 
