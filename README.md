@@ -1,4 +1,4 @@
-![Planes](https://github.com/user-attachments/assets/75967328-1ff9-4e94-9f4e-6f73e824d4e1)
+![Chrome Plane](https://github.com/user-attachments/assets/36d4fb7b-1774-4848-aefb-a4dada846f53)
 
 > Airplane and aircraft design concepts with notes.
 
@@ -15,6 +15,8 @@ While [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) is developed fo
 
 #
 ### Tossed
+
+![Planes](https://github.com/user-attachments/assets/75967328-1ff9-4e94-9f4e-6f73e824d4e1)
 
 Stomach tossing in small aircraft refers to nauseating maneuvers and techniques used during flight, particularly during takeoff and landing phases. One key term is "toss" itself, which describes the action of lifting the nose of the aircraft quickly after takeoff, often to achieve a steeper climb angle. This technique can help clear obstacles near the runway but requires careful attention to airspeed and aircraft performance. Additionally, terms like "pitch," "yaw," and "roll" are essential for understanding how a pilot controls the aircraft's orientation. Pitch refers to the angle of the aircraft's nose up or down, yaw is the side-to-side movement of the nose, and roll describes the tilting of the wings. Mastering these concepts is crucial for safe and effective aircraft operation.
 
