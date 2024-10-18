@@ -191,6 +191,8 @@ This concept also hints at the broader possibilities of integrating technology i
 [Airport Simulator](https://github.com/sourceduty/Airport_Simulator)
 <br>
 [Bird's Eye Visualizer](https://github.com/sourceduty/Birds_Eye_Visualizer)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
