@@ -1,4 +1,4 @@
-![Chrome Plane](https://github.com/user-attachments/assets/36d4fb7b-1774-4848-aefb-a4dada846f53)
+![Orange Beaver](https://github.com/user-attachments/assets/fb586220-3ab9-44f8-9371-f6a55c4d0fdf)
 
 > Airplane and aircraft design concepts with notes.
 
@@ -10,6 +10,8 @@ Moreover, the integration of advanced technologies like artificial intelligence 
 
 #
 ### Car Design GPT
+
+![Chrome Plane](https://github.com/user-attachments/assets/36d4fb7b-1774-4848-aefb-a4dada846f53)
 
 While [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) is developed for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
 
