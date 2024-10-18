@@ -1,4 +1,4 @@
-![Makeshift Pilot](https://github.com/user-attachments/assets/5ef83bcc-3d93-4849-bbf3-706ac208519f)
+![Planes](https://github.com/user-attachments/assets/75967328-1ff9-4e94-9f4e-6f73e824d4e1)
 
 > Airplane and aircraft design concepts with notes.
 
@@ -12,6 +12,13 @@ Moreover, the integration of advanced technologies like artificial intelligence 
 ### Car Design GPT
 
 While [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) is developed for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
+
+#
+### Tossed
+
+Stomach tossing in small aircraft refers to nauseating maneuvers and techniques used during flight, particularly during takeoff and landing phases. One key term is "toss" itself, which describes the action of lifting the nose of the aircraft quickly after takeoff, often to achieve a steeper climb angle. This technique can help clear obstacles near the runway but requires careful attention to airspeed and aircraft performance. Additionally, terms like "pitch," "yaw," and "roll" are essential for understanding how a pilot controls the aircraft's orientation. Pitch refers to the angle of the aircraft's nose up or down, yaw is the side-to-side movement of the nose, and roll describes the tilting of the wings. Mastering these concepts is crucial for safe and effective aircraft operation.
+
+Another important aspect of tossing terminology is the concept of "flare" during landing. The flare is a maneuver where the pilot raises the aircraft's nose just before touchdown to reduce descent rate and ensure a smoother landing. This technique requires precise timing and coordination to maintain control while transitioning from descent to level flight just above the runway. Moreover, "cross-control" is a term used to describe the use of opposite controls to manage adverse yaw and maintain desired flight paths during maneuvers. Understanding and applying these terms and techniques enable pilots to navigate small aircraft effectively, enhancing safety and performance during various flight operations.
 
 #
 ### Airplane & Other Airborne Design Concepts
