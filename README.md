@@ -134,6 +134,19 @@ This concept also hints at the broader possibilities of integrating technology i
 
 <br>
 </details>
+<details><summary>Gear Shifter</summary>
+<br>
+
+![Airplane Gear Shifter](https://github.com/user-attachments/assets/d8dbffd9-b55d-4f82-8e8b-0b5b2c1bf2cc)
+
+Using a manual gear shifter in an airplane, as seen in the provided image, would present a range of issues, primarily due to the different control needs between cars and aircraft. In a car, a manual transmission is used to change gears in response to speed, torque, and engine performance. However, aircraft typically use automatic systems like constant speed propellers, which manage engine RPM and performance more effectively than a manual system. Pilots need to focus on numerous tasks, including navigation, monitoring instruments, and handling weather conditions, which makes a manual gear shifter impractical as it would add unnecessary complexity to flight operations.
+
+One of the significant problems with using a manual gear shifter in an airplane is the need for frequent attention and manual input. While flying, a pilot must continuously make adjustments to the aircraft's power, pitch, and trim, which already require the use of both hands and feet. Adding manual gear shifting would distract the pilot from more critical tasks such as communicating with air traffic control, monitoring fuel levels, and ensuring the aircraft's stability. In turbulent or emergency situations, manually shifting gears would complicate the pilot's workload, increasing the risk of errors and jeopardizing flight safety.
+
+Additionally, the aerodynamic forces and power systems in an aircraft are vastly different from those in a car. Airplanes use power settings based on altitude, airspeed, and air pressure, not mechanical gears for speed and torque like in ground vehicles. The need to shift gears manually could result in suboptimal engine performance, potentially leading to dangerous conditions like engine failure or stall during flight. The overall design of modern aircraft relies on systems that maintain stability and efficiency, which a manual gear shifter would undermine by forcing the pilot to manage unnecessary mechanical controls.
+
+<br>
+</details>
 
 #
 ![Hughes](https://github.com/user-attachments/assets/74fd9d84-b218-4185-8272-999aa38e61fc)
